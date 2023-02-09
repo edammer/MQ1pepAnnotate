@@ -14,7 +14,7 @@
 
 #Outputs:
 # Table of "one-hit wonder" single peptide (possibly multi-PSM) identifications of protein groups (readable by this script as well)
-# PDF of annotated extracted MS/MS PSMs (the top, best scoring, for each identification in the above output table.
+# PDF of annotated extracted MS/MS PSMs (the top, best scoring, for each identification in the above output table)
 
 #________________________________________________________________________
 
